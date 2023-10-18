@@ -5,7 +5,7 @@ const BASE_URL = "https://moviesdatabase.p.rapidapi.com";
 
 const CONFIG = {
   headers: {
-    "X-RapidAPI-Key": "5fac4799eamsha56eebfc89ab17bp198260jsn06b009788952",
+    "X-RapidAPI-Key": "API_KEY",
     "X-RapidAPI-Host": "moviesdatabase.p.rapidapi.com",
   },
 };
